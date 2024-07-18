@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuciaSpina
 - 👀 Estoy en interesada en crear aplicaciones moviles
 - 🌱 Estoy aprendiendo JavaScript 
-- 💞️ Actualmente estudio en el jesus obrero y estoy en 3er semestre 
+- 💞️ Actualmente estudio en el jesus obrero y estoy en 4t semestre 
 - 📫 How to reach me ...
 
 <!---
